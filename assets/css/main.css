@@ -32,6 +32,7 @@ h5{
   padding-top: 20px;
   color: white;
   background-color: #fff;
+  cursor: pointer;
   color: #a7b9da;
   -webkit-transform:scale(1.1);
   -webkit-transition: all .0.5s ease-in-out;
